@@ -1,4 +1,4 @@
-# 🛡️ AegisGuard AI
+# 🛡️ Cyber Defense AI
 
 ### Platform Keamanan Siber Cerdas yang Mengintegrasikan Deteksi, Analisis, dan Respons Otomatis
 
@@ -15,9 +15,9 @@
 
 Kami percaya bahwa analis keamanan adalah aset paling berharga dalam pertahanan siber. Namun, potensi mereka seringkali terhambat oleh tugas manual dan *alert fatigue*.
 
-**Filosofi AegisGuard AI:** ***“Automate the automatable to empower the human.”***
+**Filosofi Cyber Defense AI:** ***“Automate the automatable to empower the human.”***
 
-Platform kami dirancang untuk berfungsi sebagai **co-pilot** bagi analis keamanan. Dengan mengambil alih tugas-tugas repetitif dalam mengumpulkan, menyaring, dan mengkorelasi data, AegisGuard AI membebaskan analis untuk fokus pada tugas-tugas bernilai tinggi seperti *threat hunting*, investigasi mendalam, dan perumusan strategi pertahanan. Kami mengubah paradigma dari sekadar bereaksi terhadap insiden menjadi proaktif dalam mengantisipasi ancaman.
+Platform kami dirancang untuk berfungsi sebagai **co-pilot** bagi analis keamanan. Dengan mengambil alih tugas-tugas repetitif dalam mengumpulkan, menyaring, dan mengkorelasi data, Cyber Defense AI membebaskan analis untuk fokus pada tugas-tugas bernilai tinggi seperti *threat hunting*, investigasi mendalam, dan perumusan strategi pertahanan. Kami mengubah paradigma dari sekadar bereaksi terhadap insiden menjadi proaktif dalam mengantisipasi ancaman.
 
 ---
 
